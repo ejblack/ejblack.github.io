@@ -1,0 +1,46 @@
+body {
+	text-align: center;
+	font-family: arial;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
+
+h2{
+	padding-top: 20px;
+}
+
+h1 {
+	font-family: arial; 
+	font-size-adjust: 
+}
+
+p {
+	margin-left: 265;
+}
+
+h3 {
+	margin-left: 230;
+	text-transform: uppercase;
+}
+
+body {
+	background-color: lightgray;
+	margin-top: 55px;
+    margin-bottom: 225px;
+}
+
+ img {
+	border: 1px solid black;
+	float: right;
+	width: 200px;
+	height: 200;
+	margin-right: 415px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+}
+
+hr {
+
+}
+
+
